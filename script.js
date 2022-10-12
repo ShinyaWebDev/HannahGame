@@ -134,7 +134,7 @@ const circleData = {
         element: 'house1', angle: 50, offset: 60,
         display: {
           caption: `Hey there, do you want to see Hannah's illustrations?`,
-          link: linkButton('https://masahito.co.uk/', `ok!`),
+          link: linkButton('https://www.youtube.com/watch?v=hEPCzzlegSM', `ok!`),
         } 
       },
       { element: 'tree', angle: 65, offset: 100, color: 'white' },
@@ -148,8 +148,8 @@ const circleData = {
             w: 140,
             h: 140,
           },
-          caption: 'Want to see some pandas bumping into each other?',
-          link: linkButton('https://codepen.io/Ma5a/full/WNEBqPO', `yup, I'll have a look`)
+          caption: 'Want to see some pandas singing like a king?',
+          link: linkButton('https://www.youtube.com/watch?v=4NJlUribp3c', `yup, I'll have a look`)
         },
       },
       {
@@ -160,8 +160,8 @@ const circleData = {
             w: 160,
             h: 150,
           },
-          caption: 'Come and play with the point and click penguin',
-          link: linkButton('https://codepen.io/Ma5a/full/MWrZPOP', `ok!`)
+          caption: 'It is gongt to be so much fun!',
+          
         },
       },
       { 
@@ -215,8 +215,8 @@ const circleData = {
             w: 72,
             h: 72,
           },
-          caption: `Here's Masa's twitter, if you're into that sort of thing`,
-          link: linkButton('https://twitter.com/masahitoart', `yeah, I'm into that sort of thing`)
+          caption: `Here's Hannah's twitter, if you're into that sort of thing`,
+          link: linkButton('https://twitter.com/ShinyaWeb', `yeah, I'm into that sort of thing`)
         },
       },
       {
@@ -228,8 +228,8 @@ const circleData = {
             w: 144,
             h: 144,
           },
-          caption: `Want to see small robots destroying each other?`,
-          link: linkButton('https://codepen.io/Ma5a/full/LYQoLNR', `urm, ok`),
+          caption: `Want to know how to cook nice omlet?`,
+          link: linkButton('https://www.youtube.com/watch?v=b8DTAbE9lRY', `urm, ok`),
           button: 'meh'
         },
       },
@@ -245,7 +245,7 @@ const circleData = {
       { 
         element: 'talking_tree', angle: 50, offset: 20,
         display: {
-          caption: `I might one day make a small RPG based on this code. Maybe.`,
+          caption: `It will be fun if you can join and play together!`,
         },
       },
       { element: 'tree', angle: 60, offset: 100 },
@@ -259,8 +259,8 @@ const circleData = {
             w: 120,
             h: 130,
           },
-          caption: 'Want to play with an interactive kitten?',
-          link: linkButton('https://codepen.io/Ma5a/full/BapbQam', `of course!`)
+          caption: 'Want to draw a kitten?',
+          link: linkButton('https://www.youtube.com/watch?v=49YK53Tki0s', `of course!`)
         }, 
       },
       { element: 'tree', angle: 150, offset: 40 },
